@@ -10,3 +10,15 @@ Here is a side shot.
 <br>
 
 <img width="662" height="327" alt="Screenshot 2026-07-11 at 4 30 02 pm" src="https://github.com/user-attachments/assets/088aa4f8-61b9-41fe-8095-52d5e87c9b58" />
+
+Here are the figma screenshots that were used for the design.
+<br>
+
+<img width="662" height="327" alt="Screenshot 2026-07-11 at 4 32 35 pm" src="https://github.com/user-attachments/assets/229d3533-fc01-440f-a14f-697902579c9a" />
+
+<br>
+<img width="662" height="327" alt="Screenshot 2026-07-11 at 4 32 40 pm" src="https://github.com/user-attachments/assets/a4235117-7d84-4a0e-b994-462e8daa946e" />
+
+<br>
+<img width="662" height="327" alt="Screenshot 2026-07-11 at 4 32 54 pm" src="https://github.com/user-attachments/assets/0318ea3d-290d-497f-8937-136c763330a8" />
+
